@@ -1,0 +1,3 @@
+# CraftRise Bot - izinli lisanslar (HWID listesi)
+# Her satir bir bilgisayar (HWID). Lisansi bitirmek icin o satiri sil.
+# '#' ile baslayan satirlar yok sayilir.
