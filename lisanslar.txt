@@ -3,3 +3,4 @@
 # '#' ile baslayan satirlar yok sayilir.
 6CB75-67AB7-D4757-EEBC6  # Test
 68A77-37F44-B6DC2-2A5E2  # 1.VDS
+74032-E6728-E2C75-BB7DA  # Site Vds
