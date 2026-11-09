@@ -1,3 +1,4 @@
 # CraftRise Bot - izinli lisanslar (HWID listesi)
 # Her satir bir bilgisayar (HWID). Lisansi bitirmek icin o satiri sil.
 # '#' ile baslayan satirlar yok sayilir.
+6CB75-67AB7-D4757-EEBC6  # Test
